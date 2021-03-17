@@ -1,0 +1,28 @@
+
+section{
+    min-height: 200px;
+}
+
+
+/* background color */
+.bg-nero-scuro{
+    background-color: #2c3e50;
+}
+
+.bg-nero-meno-scuro{
+    background-color: #3a546d;
+}
+
+.bg-verdeacqua{
+    background-color: #1abc9c;
+}
+
+/* text color */
+.text-color-w{
+    color: white;
+}
+
+/* colori testo <a> navbar */
+nav a{
+    color: white;
+}
