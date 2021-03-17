@@ -1,7 +1,7 @@
 
-section{
+/* section{
     min-height: 200px;
-}
+} */
 
 
 /* background color */
@@ -26,3 +26,26 @@ section{
 nav a{
     color: white;
 }
+
+.my-img-container{
+    max-width: 200px;
+}
+
+/* .box{
+    min-height: 50px;
+    background-color: tomato;
+} */
+
+.marg-tb{
+    margin: 15px;
+}
+
+.form-control{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+
